@@ -1,3 +1,7 @@
+.gitignore
+~*
+*.swo
+*.swp
 target
 .classpath
 .settings
